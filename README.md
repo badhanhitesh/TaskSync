@@ -1,6 +1,6 @@
 # TaskSync🍲🗂️
 
-Welcome to **TaskSync**—a cutting-edge task management application that combines task tracking with personalized recipe suggestions. Leveraging advanced machine learning algorithms, TaskScheduler not only helps you manage your tasks but also inspires you with creative meal ideas based on your dietary preferences, ingredients on hand, and cooking experience level.
+Welcome to **TaskSync** - a cutting-edge task management application that combines task tracking with personalized recipe suggestions. Leveraging advanced machine learning algorithms, TaskScheduler not only helps you manage your tasks but also inspires you with creative meal ideas based on your dietary preferences, ingredients on hand, and cooking experience level.
 
 ## Features 🚀
 
