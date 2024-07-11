@@ -11,7 +11,7 @@ Welcome to **TaskSync** - a cutting-edge task management application that combin
 
 ## Live Demo 🌐
 
-Check out the live version of TaskSync [here](https://hoangsonww.github.io/The-Ultimate-Task-Board) to see it in action!
+Check out the live version of TaskSync [here](https://badhanhitesh.github.io/TaskSync) to see it in action!
 
 ## Technology Stack 🌟
 
